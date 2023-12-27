@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilimadisov&label=Profile%20views&color=0b1032&style=plastic" alt="bilimadisov" /> </p>
 
-- 💬 Ask me about **Node js**
+- 👁️ **Node js**
 
 - 📫 How to reach me **billyadisov@gmail.com**
 
