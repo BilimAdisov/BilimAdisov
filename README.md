@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilimadisov&label=Profile%20views&color=0b1032&style=plastic" alt="bilimadisov" /> </p>
 
-- 🔭 I’m currently working on [Cheber](http://cheber.org/)
-
-- 🌱 I’m currently learning **React native | Angular | GraphQl**
-
-- 🔭 Worked on a project [breath of production](http://breath-of-prodution-front.s3-website.eu-central-1.amazonaws.com/login)
-
 - 💬 Ask me about **React & Next ts**
 
 - 📫 How to reach me **billyadisov@gmail.com**
