@@ -1,4 +1,4 @@
-<div align="center">
+ц<div align="center">
     <!-- <img src="" align="center" style="width: 100%" /> -->
 </div>
 
@@ -7,7 +7,7 @@
 <br/>
 
 ## My Skill Set
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
     <div style="flex: 1; margin: 10px;">
         <h3 align="center">Frontend</h3>
         <div align="center">
