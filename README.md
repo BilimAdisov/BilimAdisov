@@ -1,4 +1,4 @@
-<h1 align="left">🙏 Hi, I'm <em>Bilim</em></h1>
+<h1 align="left">👁️ Hi, I'm <em>Bilim</em></h1>
 
 <h4 align="left">I'm a Web Developer</h4>
 <!-- <a href="#debabin-title">
