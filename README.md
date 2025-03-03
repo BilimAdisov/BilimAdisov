@@ -68,7 +68,7 @@
       <br>Docker
     </td>
     <td align="center" width="96"> 
-      <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg](https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg)" alt=".NET" height="50" /></a>
+      <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px"   src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt=".NET" height="50" /></a>
       <br>C#
     </td>
     <td align="center" width="96"> 
