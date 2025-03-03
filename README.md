@@ -1,6 +1,9 @@
 <h1 align="left">👁️ Hi, I'm <em>Bilim</em></h1>
 
 <h4 align="left">I'm a Web Developer</h4>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=BilimAdisov&&style=flat-square" align="center" />
+</div>
 <!-- <a href="#debabin-title">
   <img src="https://github-readme-stats.vercel.app/api?username=BilimAdisov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
 </a> -->
