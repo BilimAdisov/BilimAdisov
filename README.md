@@ -8,7 +8,7 @@
 
 ## My Skill Set
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div style="flex: 1; margin: 10px;">
+    <div>
         <h3 align="center">Frontend</h3>
         <div align="center">
             <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -33,7 +33,7 @@
         </div>
     </div>
 
-<div style="flex: 1; margin: 10px;">
+<div>
 <h3 align="center">Backend</h3>
 <div align="center">
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
@@ -54,7 +54,7 @@
 </div>
 </div>
 
-<div style="flex: 1; margin: 10px;">
+<div>
 <h3 align="center">DevOps</h3>
 <div align="center">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
