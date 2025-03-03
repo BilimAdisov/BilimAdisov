@@ -251,9 +251,8 @@
   </tr> 
 </table>
 
-## :comet: Contact
+<!-- ## :comet: Contact -->
 
-- :comet: &nbsp;**[Github](https://github.com/Adisov)**
 <!-- - :airplane: &nbsp;**[Telegram](https://t.me/)**
 - :popcorn: &nbsp;**[Youtube](https://www.youtube.com/channel/)**
 - :robot: &nbsp;**[Discord]()**
