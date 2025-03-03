@@ -117,7 +117,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
-      <br>Angular Js
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#BilimAdisov-stack">
@@ -194,9 +194,7 @@
       <br>Sass
     </td>
    <td align="center" width="96">
-      <a href="#BilimAdisov-stack">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
+      <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
       <br>Tailwind
     </td>
   </tr> 
