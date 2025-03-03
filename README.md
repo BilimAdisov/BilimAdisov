@@ -7,7 +7,7 @@
 <br/>
 
 ## My Skill Set
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div>
         <h3>Frontend</h3>
         <div>
